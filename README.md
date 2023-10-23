@@ -9,7 +9,7 @@
 ⠀⠀⠀→ Years Old == 18
 
 ⠀⠀⠀→Occupacion == Higher Education Student in [UPE](https://www.upe.br)
-<img align="right" src="https://github.com/ok-kioo/ok-kioo/assets/140987677/d4408016-184c-4f00-a4af-32c3735b56d1" alt="ashes">
+<img align="right" width="400" src="https://github.com/ok-kioo/ok-kioo/assets/140987677/d4408016-184c-4f00-a4af-32c3735b56d1" alt="ashes">
   
 ##
 
