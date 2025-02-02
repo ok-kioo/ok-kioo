@@ -32,7 +32,7 @@
   <img 
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=ok-kioo&show_icons=true"
-    height="190" 
+    height="150" 
   />
 </picture>
 
@@ -48,7 +48,7 @@
   <img 
     alt="Tecnologias"
     align="right"
-    height="190" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok-kioo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </picture>
@@ -72,7 +72,7 @@
 ### Tecnologias e Ferramentas
 <br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
   <img align="center" alt="Kio-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
   <img align="center" alt="Kio-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
