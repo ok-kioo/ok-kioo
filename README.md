@@ -20,42 +20,6 @@
 
 <hr>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ok-kioo&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ok-kioo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=ok-kioo&show_icons=true"
-    height="150" 
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ok-kioo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ok-kioo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img 
-    alt="Tecnologias"
-    align="right"
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok-kioo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</picture>
-
-
-<hr>
-
 ### Linguagens
 <br>
 
