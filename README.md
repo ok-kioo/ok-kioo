@@ -66,6 +66,6 @@
 
 ## 📌 Projetos em Destaque
 
-- **Chika Dashboard**: Dashboard interativo desenvolvido com **Plotly Dash** para análise de casos crônicos de Chikungunya em Pernambuco, explorando tendências temporais e padrões demográficos.
+- **Chika Dashboard**: Dashboard interativo desenvolvido para o **dotLab Brazil** com **Plotly Dash** para análise de casos crônicos de Chikungunya em Pernambuco, explorando tendências temporais e padrões demográficos.
 - **Autosave**: Plataforma que combina funcionalidades de newsletter e interação social, utilizando **Spring Boot**, **React**, **PostgreSQL** e **Neo4j**.
 - **Nexus**: Plataforma de monitoramento acadêmico desenvolvida em parceria com **Porto Digital** e **Lovable**, utilizando **React** e **Node.js** e seguindo uma abordagem de **spec-driven design**.
