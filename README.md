@@ -1,64 +1,71 @@
-### "Hello World !!👺"
+<h1 align="center">Olá, mundo! Eu sou Kaio Viana 👋</h1>
 
-<hr>
+<p align="center">
+  <em>Desenvolvedor Full-Stack • Analista de Dados • Pesquisador</em>
+</p>
 
-<br>
+<p align="center">
+  <img 
+    src="https://github.com/ok-kioo/ok-kioo/blob/main/terminal.gif" 
+    width="400px" 
+    alt="Animação de Terminal" 
+  />
+</p>
 
-<picture>
-  <img align="right" width="300" heigth="250" src="https://github.com/ok-kioo/ok-kioo/assets/140987677/d4408016-184c-4f00-a4af-32c3735b56d1" alt="ashes">
-</picture>
+<p align="center">
+  Programador e graduando em Sistemas de Informação pela Universidade de Pernambuco (UPE).
+</p>
 
-***def*** *Introduce* ***(yourself)*** :
+<p align="center">
+  <a href="mailto:printf.kaiovini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/kaiovlv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ok-kioo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-⠀⠀⠀→ Name = Kaio Vinícius
+## ✨ Sobre Mim
 
-⠀⠀⠀→ Years Old = 21
+- 🧩 Sou movido pela curiosidade por tudo o que envolve tecnologia e música.
+- 💻 Tenho experiência prática no desenvolvimento de aplicações web e na construção de soluções orientadas a dados.
+- 📊 Atuo no desenvolvimento de aplicações com Spring Boot, Node.js e React, além da análise e visualização de dados com Plotly Dash e Power BI.
+- 🔍 Gosto de entender como sistemas são projetados e transformar problemas complexos em soluções práticas.
 
-⠀⠀⠀→ Occupacion = Higher Education Student in [UPE](https://www.upe.br)
+## 🛠️ Tecnologias
 
-<br><br><br><br><br><br>
+### Backend
 
-<hr>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Linguagens
-<br>
+### Frontend
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; text-align: center;">
-  <img align="center" alt="Kio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Kio-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Kio-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="Kio-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Kio-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-##
+### Dados & Visualização
 
-### Tecnologias e Ferramentas
-<br>
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-  <img align="center" alt="Kio-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
-  <img align="center" alt="Kio-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=lWL5zqQfa1pO&format=png&color=000000" />
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
-  <br><br>
+### Ferramentas & Infraestrutura
 
-  <img align="center" alt="Kio-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
-  <img align="center" alt="Kio-plotly" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" />
-  <img align="center" alt="Kio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Kio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <br><br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
-  <img align="center" alt="Kio-icon" height="30" width="40" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
-</div>
+## 📌 Projetos em Destaque
 
-<hr>
-
-☎️*Contact me on:*
-<div>
-  <a href="printf.kaiovini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/> <a href="https://www.linkedin.com/in/kaio-vinícus-de-lima-viana-20a791297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/> <a href="https://github.com/ok-kioo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"><a/>     
-</div>
+- **Chika Dashboard**: Dashboard interativo desenvolvido com **Plotly Dash** para análise de casos crônicos de Chikungunya em Pernambuco, explorando tendências temporais e padrões demográficos.
+- **Autosave**: Plataforma que combina funcionalidades de newsletter e interação social, utilizando **Spring Boot**, **React**, **PostgreSQL** e **Neo4j**.
+- **Nexus**: Plataforma de monitoramento acadêmico desenvolvida em parceria com **Porto Digital** e **Lovable**, utilizando **React** e **Node.js** e seguindo uma abordagem de **spec-driven design**.
