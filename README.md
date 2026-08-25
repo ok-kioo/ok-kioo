@@ -55,6 +55,8 @@
 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-00E5FF?style=for-the-badge&logo=looker&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=database&logoColor=black)
 
 ### Ferramentas & Infraestrutura
 
